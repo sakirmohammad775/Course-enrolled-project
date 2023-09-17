@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "image": "https://i.ibb.co/ZV3rYtm/Rectangle-2-2.png",
+      "courseTitle": "Introduction to C Programming",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 15000,
+      "credit": 1,
+      "button": "Select"
+    },
+    {
+      "id": "2",
+      "image": "https://i.ibb.co/W37mhS4/Rectangle-2-3.png",
+      "courseTitle": "Introduction to Algorithms",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 25000,
+      "credit": 2,
+      "button": "Select"
+    },
+    {
+      "id": "3",
+      "image": "https://i.ibb.co/gmbrzvG/Rectangle-2-4.png",
+      "courseTitle": "Introduction to C++ for DSA",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 10000,
+      "credit": 10,
+      "button": "Select"
+    },
+    {
+      "id": "4",
+      "image": "https://i.ibb.co/5Mm315h/Rectangle-3.png",
+      "courseTitle": "Basic Data Structures",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 35000,
+      "credit": 5,
+      "button": "Select"
+    },
+    {
+      "id": "5",
+      "image": "https://i.ibb.co/DwLj5sj/Rectangle-2.png",
+      "courseTitle": "Introduction to OOP Python",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 19000,
+      "credit": 5,
+      "button": "Select"
+    },
+    {
+      "id": "6",
+      "image": "https://i.ibb.co/YTmxDbG/Rectangle-2-5.png",
+      "courseTitle": "Software Engineering",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 23000,
+      "credit": 2,
+      "button": "Select"
+    },
+    {
+      "id": "7",
+      "image": "https://i.ibb.co/why4wjJ/Rectangle-3-1.png",
+      "courseTitle": "AWS, Cloud Computing",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 35000,
+      "credit": 5,
+      "button": "Select"
+    },
+    {
+      "id": "8",
+      "image": "https://i.ibb.co/YTmxDbG/Rectangle-2-5.png",
+      "courseTitle": "Database (MySQL)",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 19000,
+      "credit": 5,
+      "button": "Select"
+    },
+    {
+      "id": "9",
+      "image": "https://i.ibb.co/QdpsPg0/Rectangle-2-6.png",
+      "courseTitle": "Problem-Solving Part",
+      "courseDetails": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 23000,
+      "credit": 2,
+      "button": "Select"
+    }
+  ]
+   

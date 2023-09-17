@@ -1,0 +1,32 @@
+li{
+    color: rgba(28, 27, 27, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.right-part{
+    width: 310px;
+    height: 290px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.remaining{
+    color: #2F80ED;
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 20px;
+
+}
+.course-name{
+    color: #1C1B1B;
+    font-size: 20px;
+    font-weight: 700;
+}
+.credit-hour{
+    color: rgba(28, 27, 27, 0.80);
+    
+    font-size: 16px;
+    font-weight: 500;
+}

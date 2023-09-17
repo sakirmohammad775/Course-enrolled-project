@@ -1,0 +1,62 @@
+/* .container{
+    background-color: red;
+} */
+.card{
+    width: 330px;
+    height: 330px;
+    border-radius: 10px;
+    padding:30px;
+    margin-bottom: 50px;
+}
+.header{
+    color: #1C1B1B;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 400px;
+    padding: 50px;
+}
+.course-title{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #1C1B1B;
+    font-size: 18px;
+    font-weight: 600;
+}
+.course-details{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.info{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.photo{
+    width: 250px;
+    border-radius: 10px;
+    
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.card-btn{
+    width: 260px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #2F80ED;
+    background: #2F80ED;
+}
+.credit{
+    padding-right: 30px;
+}
+.home-container{
+    display: flex;
+}
+.card-container{
+   
+    display: flex;
+    gap:10px;
+    
+}
